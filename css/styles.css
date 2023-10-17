@@ -166,11 +166,15 @@ p{
     }
     
     .big-heading{
-        font-size: 1.5rem;
+        font-size: 2.5rem;
+    }
+
+    .container-fluid .big-heading{
+        padding: 2% 0%;
     }
     
     .section-heading{
-        font-size: 1rem;
+        font-size: 1.8rem;
     }
 
     .testimonial-text{
@@ -179,6 +183,10 @@ p{
 
     .price-text{
         font-size: 1.9rem;
+    }
+
+    .download-button{
+        width: 45%;
     }
 
 }
