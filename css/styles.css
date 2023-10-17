@@ -160,6 +160,29 @@ p{
     margin: 20px 10px;
 }
 
+@media (max-width: 720px){
+    #title{
+        text-align: center;
+    }
+    
+    .big-heading{
+        font-size: 1.5rem;
+    }
+    
+    .section-heading{
+        font-size: 1rem;
+    }
+
+    .testimonial-text{
+        font-size: 1rem;
+    }
+
+    .price-text{
+        font-size: 1.9rem;
+    }
+
+}
+
 @media (max-width: 1285px){
     #title{
         text-align: center;
