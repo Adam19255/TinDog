@@ -166,15 +166,11 @@ p{
     }
     
     .big-heading{
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
 
-    .container-fluid .big-heading{
-        padding: 2% 0%;
-    }
-    
     .section-heading{
-        font-size: 1.8rem;
+        font-size: 1.5rem;
     }
 
     .testimonial-text{
@@ -185,8 +181,8 @@ p{
         font-size: 1.9rem;
     }
 
-    .download-button{
-        width: 45%;
+    .press-logo{
+        margin: 10px 10px 30px;
     }
 
 }
